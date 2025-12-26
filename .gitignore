@@ -134,3 +134,6 @@ resources/frags/test
 
 resources/asdf2.frag
 resources/asdf2.json
+
+# Rust build artifacts
+rust/target
