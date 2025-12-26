@@ -12,7 +12,7 @@ pub use utils::{
         BufferGeometry, CreateGlobalTransformRequest, CreateItemRequest,
         CreateLocalTransformRequest, CreateMaterialRequest, CreateRelationRequest,
         CreateRepresentationRequest, CreateSampleRequest, DeleteRequest, EditKey, EditRawData,
-        EditRequest, EditRequestType, ElementData, Id, ItemAttribute, ItemData, Matrix4,
+        EditRequest, EditRequestType, EditUtils, ElementData, Id, ItemAttribute, ItemData, Matrix4,
         MeshLambertMaterial, NewElementData, NewElementSample, RawAxis, RawCircleCurve,
         RawCircleExtrusion, RawGeometry, RawGlobalTransformData, RawItemData, RawMaterial,
         RawMetadataData, RawRelationData, RawRepresentation, RawSample, RawShell, RawTransformData,

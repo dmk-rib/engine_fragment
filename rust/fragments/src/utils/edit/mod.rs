@@ -1,8 +1,10 @@
+pub mod edit_utils;
 pub mod id_solver;
 pub mod request_filterer;
 pub mod temp_id_solvers;
 pub mod types;
 
+pub use edit_utils::EditUtils;
 pub use id_solver::solve_ids;
 pub use request_filterer::{
     apply_changes_to_ids, apply_changes_to_raw_data, apply_changes_to_special_data, EditRawData,
